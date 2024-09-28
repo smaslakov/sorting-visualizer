@@ -3,14 +3,14 @@ This repository contains a sorting visualizer implemented using Qt, designed to 
 
 **Installation Instructions**
 
-1.##Clone the repository:##
+1.Clone the repository:
 ```sh
 git clone https://github.com/smaslakov/sorting-visualizer.git
 Navigate to the project directory:
 cd sorting-visualizer
 ```
 
-2.##Build the project using QMake:
+2.Build the project using QMake:
 
 ```sh
 qmake && make
@@ -19,7 +19,7 @@ Run the executable:
 ./sorting-visualizer
 ```
 
-##3.Select a sorting algorithm from the provided options.##
+3.Select a sorting algorithm from the provided options.
 
 Click on the "Start" button to visualize the sorting process.
 
