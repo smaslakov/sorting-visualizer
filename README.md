@@ -10,7 +10,7 @@ Navigate to the project directory:
 cd sorting-visualizer
 ```
 
-2.##Build the project using QMake:##
+2.##Build the project using QMake:
 
 ```sh
 qmake && make
